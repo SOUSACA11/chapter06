@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapByValue", "SwapByValue\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapByRef", "SwapByRef\SwapByRef.csproj", "{103C28A0-E97B-47B0-8CEA-C0435903D962}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefReturn", "RefReturn\RefReturn.csproj", "{DB22B2A4-5EB5-4213-9238-47AA8B0E7AEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{103C28A0-E97B-47B0-8CEA-C0435903D962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{103C28A0-E97B-47B0-8CEA-C0435903D962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{103C28A0-E97B-47B0-8CEA-C0435903D962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB22B2A4-5EB5-4213-9238-47AA8B0E7AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB22B2A4-5EB5-4213-9238-47AA8B0E7AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB22B2A4-5EB5-4213-9238-47AA8B0E7AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB22B2A4-5EB5-4213-9238-47AA8B0E7AEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
