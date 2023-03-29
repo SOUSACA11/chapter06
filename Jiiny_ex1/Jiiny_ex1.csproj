@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainApp02.cs" />
+    <Compile Include="MainApp03.cs" />
+    <None Include="MainApp02-1.cs" />
+    <None Include="MainApp02.cs" />
     <None Include="MainApp01.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
